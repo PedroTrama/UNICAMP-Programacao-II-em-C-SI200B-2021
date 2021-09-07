@@ -16,7 +16,6 @@ int main(){
 	printf("Invertendo seu numero temos: "); 
 
 	for(digito = tamanho-1; digito >= 0; digito--){
-
 		printf("%c" ,numero[digito]);
 	}
 
